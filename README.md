@@ -73,8 +73,7 @@ Realtime social media platform inspired by Instagram/Facebook.
 - HTML/CSS/JS
 
 ## Live Demo
-
-https://satishmis9199.github.io/portfolio
+https://socialhub-jjy2.onrender.com
 
 ---
 
