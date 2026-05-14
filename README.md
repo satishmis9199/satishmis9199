@@ -87,7 +87,7 @@ Modern realtime social media platform inspired by Instagram & Facebook.
 
 ## 🌐 Live Demo
 
-🔗 https://socialhub-jjy2.onrender.com/user/dashboard
+🔗 https://socialhub-jjy2.onrender.com
 
 ---
 
@@ -113,7 +113,7 @@ Business management & digital platform project developed for Kumar Enterprises.
 - Spring Boot
 - PostgreSQL
 - JavaScript
-- HTML/CSS
+- Angular js
 
 ---
 
@@ -126,6 +126,27 @@ Professional portfolio website hosted on GitHub Pages.
 🔗 https://satishmis9199.github.io/portfolio
 
 ---
+## 📌 Real Time Notification Systems
+## 🔥 Features
+
+✅ Responsive UI  
+✅ Business Management  
+✅ Product Showcase  
+✅ Secure Authentication  
+✅ Database Integration  
+✅ Production-Level Architecture  
+
+---
+
+## 🛠️ Tech Stack
+
+- Spring Boot
+- PostgreSQL
+- JavaScript
+- Angular js
+- Firebasse cloud Messaging
+- Websocket
+
 
 ## 📌 Digital Clock
 
